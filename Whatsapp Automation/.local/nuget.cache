@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rrXRvdhC8NiZoYz6QiNwvKW1GZfP1cem4HMAq0k6WXd/r7gqqkhTBDg/brcW6euEeR+GH9uOUgRvGtvY33EbsQ==",
+  "dgSpecHash": "EQoykIFrMJgDIIgGjyMi+TTCxwIv5Kl1PglMxEt8zOS+8vWRWBj1utxPwnHHEUl+Ib3Q/G/SuT16fl4XGBHAVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rishabh Tiwari\\Documents\\UiPath\\Whatsapp Automation\\.local\\",
+  "projectFilePath": "C:\\Users\\Rishabh Tiwari\\Documents\\GitHub\\Social-Media-Automation\\Whatsapp Automation\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Rishabh Tiwari\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Rishabh Tiwari\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

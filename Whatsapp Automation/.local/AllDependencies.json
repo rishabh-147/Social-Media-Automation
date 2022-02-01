@@ -7570,9 +7570,9 @@
     "restore": {
       "projectUniqueName": "Whatsapp Automation",
       "projectName": "Whatsapp Automation",
-      "projectPath": "C:\\Users\\Rishabh Tiwari\\Documents\\UiPath\\Whatsapp Automation\\.local",
+      "projectPath": "C:\\Users\\Rishabh Tiwari\\Documents\\GitHub\\Social-Media-Automation\\Whatsapp Automation\\.local",
       "packagesPath": "C:\\Users\\Rishabh Tiwari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rishabh Tiwari\\Documents\\UiPath\\Whatsapp Automation\\.local"
+      "outputPath": "C:\\Users\\Rishabh Tiwari\\Documents\\GitHub\\Social-Media-Automation\\Whatsapp Automation\\.local"
     },
     "frameworks": {
       "net461": {
